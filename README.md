@@ -36,4 +36,4 @@ Designed to demonstrate content organization and responsive sidebar navigation.
 
 ## 👩🏽‍💻 Author
 Annah Molekoa  
-Junior Full-Stack Developer
+Junior Frontend Developer
